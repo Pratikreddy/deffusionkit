@@ -1,0 +1,1 @@
+diffusionkit-cli --prompt "A cartoon image of Yosemite Valley" --output-path /Users/p/Desktop/image.png --model-version argmaxinc/mlx-FLUX.1-schnell --steps 4
